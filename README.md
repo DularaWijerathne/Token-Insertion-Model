@@ -14,6 +14,6 @@ This project entails the development of a neural network model to recognize and 
 - **dataset/**: Directory containing JSON files for training and testing data.
 - **output/**: Directory for storing the trained model, evaluation results, and token insertion outputs.
 
-## Note
+## Acknowledgements
 - This project was developed as part of a freelance project for a client.
 - The BERT pre-trained model used in this project is from the Hugging Face Transformers library.
